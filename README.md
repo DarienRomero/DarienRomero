@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Hello 👋  I'm <a href="https://www.linkedin.com/in/darien-romero-leiva/">Darien Romero Leiva</a> ✨</h1>
+</div>
+<a href="https://imgur.com/8OG3qzG"><img src="https://imgur.com/8OG3qzG" title="source: imgur.com" /></a>
 
-<!--
-**DarienRomero/DarienRomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📲 Frontend developer: Flutter, React Native, React and Angular 
+- 🔭 I’m currently working on open source Flutter projects
+- 💬 Ask me about: darien.r.leiva@gmail.com
+<br>
+
+<h2 align="center">🔍 I have knowledge in</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,reactnative,react,angular,css,javascript,mongodb,sql,bootstrap,nodejs,express" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">⚙️ GitHub Analytics</h2>
+<p align="center">
+<a href="https://github.com/DarienRomero">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darienromero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darienromero&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
+
+<br>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=darienromero&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
