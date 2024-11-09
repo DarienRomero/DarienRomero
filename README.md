@@ -3,8 +3,6 @@
 </div>
 <a href="https://imgur.com/AjnXvGY"><img src="https://imgur.com/AjnXvGY.png" title="source: imgur.com" /></a>
 
-<br><br>
-
 ## Sobre mi
 
 - 📲 Frontend developer: Flutter, React Native, React and Angular 
