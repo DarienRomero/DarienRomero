@@ -13,7 +13,7 @@
 <h2 align="center">🔍 I have knowledge in</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,angular,css,javascript,mongodb,mysql,bootstrap,nodejs,nestjs,express" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,angular,css,javascript,nodejs,nestjs,express,mongodb,mysql" />
   </a>
 </p>
 
