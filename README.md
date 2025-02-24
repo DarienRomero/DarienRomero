@@ -1,7 +1,6 @@
 <div align="center">
   <h1 align="center">Hello 👋  I'm <a href="https://www.linkedin.com/in/darien-romero-leiva/">Darien Romero Leiva</a> ✨</h1>
 </div>
-<a href="https://imgur.com/AjnXvGY"><img src="https://imgur.com/AjnXvGY.png" title="source: imgur.com" /></a>
 
 ## Sobre mi
 
