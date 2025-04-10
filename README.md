@@ -6,6 +6,7 @@
 
 - 📲 Frontend developer: Flutter, React Native, React and Angular 
 - 🔭 I’m currently working on open source Flutter projects
+- 🔭 Contributing ocationally to Flutter Official repository
 - 💬 Ask me about: darien.r.leiva@gmail.com
 <br>
 
